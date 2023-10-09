@@ -1,5 +1,4 @@
-# Simple webpage Loader
-
+<!-- Simple webpage Loader -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
